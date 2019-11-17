@@ -14,7 +14,7 @@ import (
 
 // Replace Padding character for emoji.
 const (
-	ReplacePadding = " "
+	ReplacePadding = ""
 )
 
 // CodeMap gets the underlying map of emoji.
